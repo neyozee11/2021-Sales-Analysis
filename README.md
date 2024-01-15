@@ -46,11 +46,13 @@ Sales Data: The primary dataset used for this analysis are; "2021-Q1-Sales.csv",
 
 The analysis results are summarized as follows:
 1. The company's sales as evident in the revenue exhibited a steady increase from January to April, followed by a decline through June, maintaining a relatively stable position until July. Subsequently, there was a further decline until September. From then on, there was a sudden upswing in sales, reaching it's peak in December.
-2. The top five products, ranked in descending order based on sales and revenue, are the Macbook Pro Laptop, iPhone, ThinkPad Laptop, Google Phone and 27in 4K Gaming Monitor. Notably, the Macbook Pro Laptop outperforms the second-best product by almost twice the sales."
+2. The best four products, ranked in descending order based on sales and revenue, are the Macbook Pro Laptop, iPhone, ThinkPad Laptop and Google Phone. Notably, the Macbook Pro Laptop outperforms the second-best product by almost twice the sales."
 3. The top three cities with the best sales are; San Francisco, Los Angeles and New York City.
 
 ### Recommendations
 
 Based on the analysis, I recommend the following actions for the company:
-1. Invest in marketing and promotions
+1. Invest in marketing and promotions from September to the end of this year as there was a sharp increase in sales during this period.
+2. Prioritize product expansion with emphasis on the Macbook Pro Laptop, iPhone, ThinkPad Laptop, and Google Phone; allocate a double investment specifically to the Macbook Pro Laptop.
+3. Stock up more in the San Francisco, Los Angeles and New York City stores.
 
